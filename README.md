@@ -28,8 +28,9 @@
 
 <h3>Contactame</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onlinewebfonts.com%2Ficon%2F247630&psig=AOvVaw17tlTdVgqtlFdz4YfyNUJ_&ust=1714239591627000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCxnKS24IUDFQAAAAAdAAAAABAE)" alt="21304875" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joaquin-manresa-073a7020b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<br/>
+  <a href="https://joaquinmanresadev.github.io/">Portfolio Personal</a>
 </p>
 
 ------
